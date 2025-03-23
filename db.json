@@ -1,15 +1,16 @@
+
 {
   "characters": [
     {
       "id": 1,
       "name": "Mr. Cute",
-      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "image": "https://media1.giphy.com/media/Jpqn8uxPuETUJANNru/giphy.webp?cid=ecf05e47gdljfs09ax7rp1vee74bjtawljqgy82biwzio069&ep=v1_gifs_related&rid=giphy.webp&ct=g",
       "votes": 0
     },
     {
       "id": 2,
-      "name": "Mx. Monkey",
-      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "name": "Mr. Monkey",
+      "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZjeWR2N2Vldmc3MDM0c3RhcmcwcDlmcnp6aXMxNHFjcGtvanRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tRKWXEliJFQuESoZgj/giphy.gif",
       "votes": 0
     },
     {
